@@ -1,5 +1,6 @@
 ## Hi, I'm Kellen 🐙
 I'm currently a student at Wheaton College studying Philosophy 🤔, Mathematics 📊 and Computer Science. 💻
+
 Specific interests in my fields of study include:
 - Human Nature / Ethics
 - Statistics / Differential Equations
