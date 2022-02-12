@@ -12,5 +12,5 @@ I'm currently a student at Wheaton College studying Philosophy 🤔, Mathematics
 - Languages 💬
 - Reading 📚
 
-## Current Status 📂
-Looking for summer '22 internships
+## Current Status 🛠️
+Building portfolio projects
