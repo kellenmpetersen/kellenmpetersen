@@ -1,4 +1,4 @@
-## Hi, I'm Kellen 🐙
+## Hi, I'm Kellen
 I'm currently a student at Wheaton College studying Philosophy 🤔, Mathematics 📊 and Computer Science. 💻
 
 ### Specific interests in my fields of study include:
@@ -13,4 +13,4 @@ I'm currently a student at Wheaton College studying Philosophy 🤔, Mathematics
 - Reading 📚
 
 ## Current Status 🛠️
-Building portfolio projects
+Learning Python
