@@ -13,4 +13,4 @@ I'm a graduate of Wheaton College who studied Philosophy 🤔, Mathematics 📊 
 - Reading 📚
 
 ## Current Status 🛠️
-Applying to Jobs; Building Projects; OSS Contributing.
+Data Analyzing.
